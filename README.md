@@ -25,7 +25,7 @@ Some of the main technologies I'm currently using in my toolset.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tiagocreator&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=tiagocreator&style=for-the-badge&color=437FFF)
 
 ---
 
