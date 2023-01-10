@@ -1,6 +1,6 @@
 ### 💫 About Me
 
-### Hello, I'm Tiago Leite, a brazillian front-end developer
+### Hello, I'm Tiago Leite, a brazillian Full-stack Web Developer
 
 ---
 
@@ -11,18 +11,25 @@
 
 ---
 
-### 💻 Tools
+### 🔧 Tools
 
 ### Some of the main technologies I'm currently using in my toolset.
 
+#### :iphone: Front End
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=#6DDAFB)
-![Material UI](https://img.shields.io/badge/material_ui-%2320232a.svg?style=for-the-badge&logo=MUI&logoColor=2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=#69419D)
-![TailwindCSS](https://img.shields.io/badge/tailwind_css-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=#5CB8F0)
-![ES6](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=#F0D506)
+![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=#F0D506)
 ![CSS3](<https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=hsl(229,73%,52%)>)
 ![HTML5](<https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=hsl(11,73%,51%)>)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=#69419D)
+![TailwindCSS](https://img.shields.io/badge/tailwind_css-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=#5CB8F0)
 ![Figma](<https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=hsl(137,50%,59%)>)
+
+#### :desktop_computer: Back End
+
+![Nodejs](https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=#8BBF3D)
+![express](https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=#7F7F7F)
+![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=#4FAA41)
 
 ---
 
