@@ -7,7 +7,7 @@
 ### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=gmail&logoColor=white)](https://linkedin.com/in/tiagocreator)
-[![Email](https://img.shields.io/badge/Gmail-C5221F.svg?logo=linkedin&logoColor=white)](mailto:tiagoleite1405@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-C5221F.svg?logo=linkedin&logoColor=white)](mailto:contato@tiagocreator.com)
 
 ---
 
