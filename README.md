@@ -6,8 +6,8 @@
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=gmail&logoColor=white)](https://linkedin.com/in/tiagocreator)
-[![Email](https://img.shields.io/badge/Gmail-C5221F.svg?logo=linkedin&logoColor=white)](mailto:contato@tiagocreator.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiagocreator)
+[![Email](https://img.shields.io/badge/Email-C5221F.svg?logo=gmail&logoColor=white)](mailto:contato@tiagocreator.com)
 
 ---
 
