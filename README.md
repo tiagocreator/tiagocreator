@@ -19,10 +19,10 @@ I started studying by building a solid foundation in the world of web developmen
 ![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=rgb(118,74,188))
 ![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase&logoColor=rgb(238,128,15))
 
+![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=rgb(45,121,199))
 ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=#F0D506)
 ![CSS3](<https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=hsl(229,73%,52%)>)
 ![HTML5](<https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=hsl(11,73%,51%)>)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=#69419D)
 ![TailwindCSS](https://img.shields.io/badge/tailwind_css-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=#5CB8F0)
 ![Figma](<https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=hsl(137,50%,59%)>)
 
