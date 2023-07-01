@@ -8,19 +8,17 @@ I'm a self-taught and motivated web developer, I'm constantly learning new techn
 
 ### 🔧 Tools
 
-I started studying by building a solid foundation in the world of web development, HTML, CSS, Javascript and accessibility. I learned front-end and back-end frameworks. I deepened my knowledge into industry tools like Git and best practice for commits, testing tools like Jest and Mocha, linting, package management, and build tools like Webpack and Babel, among many other tools. I'm always open to learning new technologies to expand my knowledge.
+I started studying by building a solid foundation in the world of web development, HTML, CSS, JavaScript and accessibility. I learned front-end frameworks, back-end technologies ans RESTful APIs. I deepened my knowledge into industry tools like Git and best practice for commits, testing tools like Jest and Mocha, linting, package management, and build tools like Webpack and Babel, among many other tools. I'm always open to learning new technologies to expand my knowledge.
 
 ### Some of the main technologies I'm currently using in my toolset.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=#6DDAFB)
-![Nodejs](https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=#8BBF3D)
-![express](https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=#7F7F7F)
-![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=#4FAA41)
+![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=rgb(45,121,199))
+![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=#F0D506)
 ![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=rgb(118,74,188))
 ![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase&logoColor=rgb(238,128,15))
 
-![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=rgb(45,121,199))
-![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=#F0D506)
+![Nodejs](https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=#8BBF3D)
 ![CSS3](<https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=hsl(229,73%,52%)>)
 ![HTML5](<https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=hsl(11,73%,51%)>)
 ![TailwindCSS](https://img.shields.io/badge/tailwind_css-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=#5CB8F0)
