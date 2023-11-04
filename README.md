@@ -10,7 +10,7 @@
 
 #### Some of the main technologies I'm currently using in my toolset.
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,ts,js,html,css,sass,bootstrap,tailwind,figma,jest,firebase,regex,git&perline=7)](www.tiagocreator.com)
+![](https://skillicons.dev/icons?i=react,redux,ts,js,html,css,sass,bootstrap,tailwind,figma,jest,firebase,regex,git&perline=7)
 
 ---
 
