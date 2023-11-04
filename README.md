@@ -10,17 +10,7 @@
 
 #### Some of the main technologies I'm currently using in my toolset.
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=#6DDAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=rgb(45,121,199))
-![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=#F0D506)
-![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=rgb(118,74,188))
-![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase&logoColor=rgb(238,128,15))
-
-![Nodejs](https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=#8BBF3D)
-![CSS3](<https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=hsl(229,73%,52%)>)
-![HTML5](<https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=hsl(11,73%,51%)>)
-![TailwindCSS](https://img.shields.io/badge/tailwind_css-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=#5CB8F0)
-![Figma](<https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=hsl(137,50%,59%)>)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,ts,js,html,css,sass,bootstrap,tailwind,figma,jest,firebase,regex,git&perline=7)](https://skillicons.dev)
 
 ---
 
