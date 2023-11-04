@@ -8,8 +8,6 @@ I'm a self-taught and motivated web developer, I'm constantly learning new techn
 
 ### 🔧 Tools
 
-I started studying by building a solid foundation in the world of web development, HTML, CSS, JavaScript and accessibility. I learned front-end frameworks, RESTful APIs, back-end technologies, databases and how to integrate them into my projects. I deepened my knowledge into industry tools like Git and best practice for commits, testing tools like Jest and Mocha, linting, package management, and build tools like Webpack and Babel, among many other tools. I'm always open to learning new technologies to expand my knowledge.
-
 ### Some of the main technologies I'm currently using in my toolset.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=#6DDAFB)
