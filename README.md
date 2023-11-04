@@ -2,13 +2,13 @@
 
 ### Hello, I'm Tiago Leite, 
 
-I'm a self-taught and motivated web developer, I'm constantly learning new technologies. My main focus is to develop websites and web aplications that are objective, functional and attractive in their look. Always based on the principles of usability and navigability.
+#### I'm a self-taught and motivated web developer, I'm constantly learning new technologies. My main focus is to develop websites and web aplications that are objective, functional and attractive in their look. Always based on the principles of usability and navigability.
 
 ---
 
 ### 🔧 Tools
 
-### Some of the main technologies I'm currently using in my toolset.
+#### Some of the main technologies I'm currently using in my toolset.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=#6DDAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=rgb(45,121,199))
@@ -34,7 +34,7 @@ I'm a self-taught and motivated web developer, I'm constantly learning new techn
 
 ### 🌐 Contact
 
-Contact me via LinkedIn or send an email.
+#### Contact me via LinkedIn or send an email.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiagocreator)
 [![Email](https://img.shields.io/badge/Email-C5221F.svg?logo=gmail&logoColor=white)](mailto:contato@tiagocreator.com)
