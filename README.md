@@ -16,15 +16,15 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=tiagocreator&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tiagocreator&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocreator&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tiagocreator&theme=react&hide_border=true&include_all_commits=true&count_private=true&hide=prs,contribs)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tiagocreator&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocreator&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
 ### 🌐 Contact
 
-#### Contact me via LinkedIn or send an email.
+#### Don't be shy! Hit me up! 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiagocreator)
 [![Email](https://img.shields.io/badge/Email-C5221F.svg?logo=gmail&logoColor=white)](mailto:contato@tiagocreator.com)
