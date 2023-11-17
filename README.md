@@ -10,7 +10,7 @@
 
 #### Some of the main technologies I'm currently using in my toolset.
 
-![](https://skillicons.dev/icons?i=react,redux,ts,js,html,css,sass,bootstrap,tailwind,figma,jest,firebase,regex,git&perline=7)
+![](https://skillicons.dev/icons?i=react,redux,js,ts,html,css,figma,sass,bootstrap,tailwind,firebase,jest,regex,git&perline=7)
 
 ---
 
