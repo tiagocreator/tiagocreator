@@ -2,8 +2,6 @@
 
 ### Hello, I'm Tiago Leite, 
 
-#### I'm a self-taught and motivated web developer, I'm constantly learning new technologies. My main focus is to develop websites and web aplications that are objective, functional and attractive in their look. Always based on the principles of usability and navigability.
-
 ---
 
 ### 🔧 Tools
@@ -25,7 +23,6 @@
 
 #### Don't be shy! Hit me up! 👇
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiagocreator)
 [![Email](https://img.shields.io/badge/Email-C5221F.svg?logo=gmail&logoColor=white)](mailto:contato@tiagocreator.com)
 
 ---
