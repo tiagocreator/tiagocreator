@@ -1,6 +1,6 @@
 ### 💫 About Me
 
-### Hello, I'm Tiago Leite, 
+### Hello, I'm Tiago Leite
 
 ---
 
